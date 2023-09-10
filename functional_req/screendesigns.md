@@ -1,6 +1,6 @@
 # Képernyőtervek:
 
-![Fogadó oldal](fogado.jpg)
-![Főoldal](main.jpg)
-![Regisztráló oldal](register.jpg)
+![Fogadó oldal](fogado.png)
+![Főoldal](main.png)
+![Regisztráló oldal](register.png)
 
