@@ -34,3 +34,12 @@ Nemfunkcionális követelmények:
 3. Biztonság és adatvédelem:
    - A felhasználói adatokat szigorúan védeni kell, és biztonságosan kell tárolni.
    - Az oldalon nem szabad engedni a sérülékenységeknek, például SQL injekció vagy cross-site scripting (XSS) támadásoknak.
+  
+Törvényi előírások és szabványok:
+
+1. Adatvédelmi szabályozások: A felhasználói adatok kezelése és tárolása során teljesülnie kell az érvényes adatvédelmi törvényeknek és szabályozásoknak, például az EU GDPR-nek.
+
+2. Webfejlesztési szabványok: Az oldalnak meg kell felelnie a webfejlesztési szabványoknak, például a HTML5, CSS3 és JavaScript legújabb verzióinak.
+
+3. Barrierekt szabványok: Az oldalnak lehetőséget kell biztosítania a barrierekt használatához és megfelelnie kell a WCAG (Web Content Accessibility Guidelines) irányelveknek a különböző használói csoportokhoz való hozzáférhetőség terén.
+
